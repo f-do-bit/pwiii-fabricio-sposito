@@ -1,2 +1,2 @@
 # pwiii-fabricio-sposito
-Aula de PRogramação Web III com o Professor João Siles
+Aula de Programação Web III com o Professor João Siles
